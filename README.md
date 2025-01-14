@@ -24,6 +24,12 @@ This is the second project I created by perfectly replicating a Figma design wit
    ```bash
    git clone https://github.com/HUYBERIC/figmaProjectV2.git
    cd figmaProjectV2
+   ```
+2. Open `index.html ` in your favorite browser to view the project.
+
+<br> 
+<br> 
+<br> 
 
 ---
 
@@ -50,3 +56,5 @@ Ceci est le deuxième projet que j'ai réalisé en reproduisant un design Figma 
    ```bash
    git clone https://github.com/HUYBERIC/figmaProjectV2.git
    cd figmaProjectV2
+   ```
+2. Ouvre `index.html` dans ton navigateur favori pour voir le projet.
